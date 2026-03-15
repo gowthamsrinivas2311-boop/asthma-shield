@@ -13,7 +13,6 @@ Asthma Shield is a tool designed to help asthma patients understand the impact o
 ## Tech Stack
 Base44  
 Prompt engineering 
-Web technologies
 
 ## Web app link
 [try out asthama-shield!](https://asthma-shield-8d592e88.base44.app/)]
